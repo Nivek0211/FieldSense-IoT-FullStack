@@ -41,12 +41,9 @@ El sistema se divide en tres capas fundamentales que garantizan una operatividad
 ## ⚙️ Configuración y Uso
 
 ### Base de Datos
-Ejecutar el script SQL para generar la estructura necesaria:
-```sql
-CREATE DATABASE fieldsense_db;
-USE fieldsense_db;
--- Importar el contenido de Datos.sql
-Backend
+Ejecutar el script SQL para generar la estructura necesaria: mysql
+
+#Backend
 Instalar dependencias y ejecutar el servidor:
 
 Bash
