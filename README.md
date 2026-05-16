@@ -13,6 +13,8 @@ El sistema se divide en tres capas fundamentales que garantizan una operatividad
 * **Características Especiales:** * Implementación de `WiFiClientSecure` para conexiones seguras.
     * Uso de cabeceras personalizadas (`Bypass-Tunnel-Reminder`) para el bypass de túneles remotos como LocalTunnel.
     * Lógica de transmisión eficiente con reintentos automáticos en caso de pérdida de conexión.
+    * <img width="439" height="629" alt="image" src="https://github.com/user-attachments/assets/8ea82376-3b27-4e7b-aae7-bf1c6345f35a" />
+
 
 ### 2. Capa de Servidor (Backend)
 * **Entorno:** Python 3.10+ / Flask.
