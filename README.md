@@ -27,7 +27,7 @@ El sistema se divide en tres capas fundamentales que garantizan una operatividad
 * **Visualización de Datos:** Implementación de gráficas dinámicas mediante **Chart.js**.
 * **Interactividad:** El dashboard se actualiza automáticamente cada 5 segundos consumiendo la API, permitiendo un monitoreo en tiempo real sin recargar el sitio.
 
-## 🚀 Logros del Proyecto
+## 🚀 Proyecto
 * **Integración Full-Stack:** Conexión exitosa y estable desde el sensor físico hasta la interfaz en la nube.
 * **Simulación de Entorno:** Desarrollo de un script de simulación en Python que emula el comportamiento de un ESP32, permitiendo realizar pruebas de carga y debugging del backend sin necesidad de hardware físico.
 * **Seguridad Fail-Safe:** Arquitectura diseñada para manejar excepciones de red y asegurar la integridad de la base de datos ante peticiones malformadas.
